@@ -1,0 +1,129 @@
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
+INFO  Have a nice day
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+ERROR Process failed: _posts/cas_server.md
+YAMLException: end of the stream or a document separator is expected at line 4, column 1:
+    ```
+    ^
+    at generateError (/home/ygBlog/blog/node_modules/js-yaml/lib/js-yaml/loader.js:165:10)
+    at throwError (/home/ygBlog/blog/node_modules/js-yaml/lib/js-yaml/loader.js:171:9)
+    at readDocument (/home/ygBlog/blog/node_modules/js-yaml/lib/js-yaml/loader.js:1512:5)
+    at loadDocuments (/home/ygBlog/blog/node_modules/js-yaml/lib/js-yaml/loader.js:1548:5)
+    at Object.load (/home/ygBlog/blog/node_modules/js-yaml/lib/js-yaml/loader.js:1569:19)
+    at parseYAML (/home/ygBlog/blog/node_modules/hexo-front-matter/lib/front_matter.js:80:21)
+    at parse (/home/ygBlog/blog/node_modules/hexo-front-matter/lib/front_matter.js:56:12)
+    at /home/ygBlog/blog/node_modules/hexo/lib/plugins/processor/post.js:52:18
+    at tryCatcher (/home/ygBlog/blog/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/ygBlog/blog/node_modules/bluebird/js/release/promise.js:509:35)
+    at Promise._settlePromise (/home/ygBlog/blog/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/home/ygBlog/blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/ygBlog/blog/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/home/ygBlog/blog/node_modules/bluebird/js/release/promise.js:638:18)
+    at PromiseArray._resolve (/home/ygBlog/blog/node_modules/bluebird/js/release/promise_array.js:126:19)
+    at PromiseArray._promiseFulfilled (/home/ygBlog/blog/node_modules/bluebird/js/release/promise_array.js:144:14)
+    at PromiseArray._iterate (/home/ygBlog/blog/node_modules/bluebird/js/release/promise_array.js:114:31)
+    at PromiseArray.init [as _init] (/home/ygBlog/blog/node_modules/bluebird/js/release/promise_array.js:78:10)
+    at Promise._settlePromise (/home/ygBlog/blog/node_modules/bluebird/js/release/promise.js:566:21)
+    at Promise._settlePromise0 (/home/ygBlog/blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/ygBlog/blog/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/home/ygBlog/blog/node_modules/bluebird/js/release/promise.js:638:18)
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
